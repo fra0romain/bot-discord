@@ -1,0 +1,12 @@
+{
+  "name": "romai",
+  "version": "0.1.0",
+  "description": "bot discord",
+  "main": "main.js",
+  "repository": "https://github.com/fra0romain/bot-discord.git",
+  "author": "fra0romain <romainroblox@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
